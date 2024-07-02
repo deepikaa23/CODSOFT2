@@ -56,11 +56,6 @@
     </footer>
 </body>
 </html>
-
-
-
-
-
 #styles.csss
 body {
     font-family: Arial, sans-serif;
@@ -137,3 +132,8 @@ footer {
     background-color: #f4f4f4;
     padding: 1rem 0;
 }
+
+
+
+
+
